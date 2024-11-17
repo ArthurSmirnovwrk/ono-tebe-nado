@@ -1,1 +1,16 @@
 /* место для вашего кода */
+.header {
+    width: 1052px;
+    height: 105px;
+    margin: 92px 24px 96px;
+    display: grid;
+    grid-template-columns: 1fr 148px 1fr;
+    background-color: lightblue;
+    justify-items: center;
+    align-items: center;
+}
+
+.header__logo {
+    height: 105px;
+
+}
