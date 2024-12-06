@@ -38,7 +38,7 @@
 
 .header__logo-image {
     height: 105px;
-    width: 148px;    
+    width: 148px;
 }
 
 .header__address {
@@ -126,11 +126,11 @@
 
 .bet-button {
     border: 1px #FFFFFF solid;
-    padding: 12px 32px 11px 31px;    
+    padding: 12px 32px 11px 31px;
     background-color: transparent;
     font-family: 'Raleway', sans-serif;
     line-height: 25.83px;
-    font-size: 22px;    
+    font-size: 22px;
     font-weight: 500;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -169,7 +169,7 @@
 }
 
 .card {
-    height: 563px;    
+    height: 563px;
     position: relative;
     display: flex;
     flex-direction: column;
