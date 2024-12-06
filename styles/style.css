@@ -13,10 +13,13 @@
     width: 391.4px;
     height: 22px;
     justify-content: space-around;
+    position: relative;
+    left: 6px;
 }
 
 .header__links-list-item_no-bullet {
     list-style-type: none;
+    margin-left: -13.48px;
 }
 
 .header__links-list-item {
@@ -35,7 +38,7 @@
 
 .header__logo-image {
     height: 105px;
-    width: 148px;
+    width: 148px;    
 }
 
 .header__adress {
@@ -44,6 +47,7 @@
     font-size: 18px;
     text-underline-position: under;
     line-height: 24.3px;
+    margin-right: 25px;
 }
 
 .cover {
@@ -130,6 +134,8 @@
     font-weight: 500;
     text-transform: uppercase;
     color: #FFFFFF;
+    position: relative;
+    right: 8px;
 }
 
 .lots {
