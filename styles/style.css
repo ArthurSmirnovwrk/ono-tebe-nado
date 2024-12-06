@@ -41,7 +41,7 @@
     width: 148px;    
 }
 
-.header__adress {
+.header__address {
     justify-self: end;
     width: 240.52px;
     font-size: 18px;
@@ -279,7 +279,7 @@
     justify-content: space-between
 }
 
-.adress {
+.address {
     font-size: 18px;
     font-weight: 400;
     line-height: 24.3px;
