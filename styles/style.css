@@ -8,7 +8,7 @@
     align-items: center;
 }
 
-.header__links-list{
+.header__links-list {
     display: flex;
     width: 391.4px;
     height: 22px;
@@ -25,7 +25,7 @@
 
 .header__link {
     font-size: 18px;
-    text-underline-position: under; 
+    text-underline-position: under;
 }
 
 .header__link_active {
@@ -43,7 +43,7 @@
     width: 240.52px;
     font-size: 18px;
     text-underline-position: under;
-    line-height: 24.3px; 
+    line-height: 24.3px;
 }
 
 .cover {
@@ -135,7 +135,7 @@
 .lots {
     width: 1052px;
     height: 692px;
-    margin: 179px 24px 146px; 
+    margin: 179px 24px 146px;
 }
 
 .lots__heading {
@@ -167,7 +167,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;   
+    justify-content: space-between;
 }
 
 .card__title {
@@ -199,13 +199,13 @@
 .card_type_book {
     background-image: url(../images/card-lot-02.jpg);
     background-size: cover;
-    background-position: center;    
+    background-position: center;
 }
 
 .card_type_picture {
     background-image: url(../images/card-lot-03.jpg);
     background-size: cover;
-    background-position: center;    
+    background-position: center;
 }
 
 .lots__look-more-link {
@@ -240,12 +240,12 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    top: 35px;        
+    top: 35px;
 }
 
 .about__logo-image {
     width: 148px;
-    height: 114px;    
+    height: 114px;
 }
 
 .about__title {
@@ -268,14 +268,14 @@
 .footer {
     width: 1000px;
     height: 98px;
-    margin: 180px 50px 88px 50px;    
+    margin: 180px 50px 88px 50px;
     display: flex;
     justify-content: space-between
 }
 
-.address {
+.adress {
     font-size: 18px;
-    font-weight: 400;    
+    font-weight: 400;
     line-height: 24.3px;
     text-underline-position: under;
 }
